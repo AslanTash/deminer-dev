@@ -7,6 +7,14 @@
             "name": "Miner",
             "mining_power_level": 1,
             "capacity_level": 1
+        },
+        {
+            "id": 1,
+            "description": "Miner",
+            "external_url": "",
+            "name": "Miner",
+            "mining_power_level": 2,
+            "capacity_level": 1
         }
     ]
 }
